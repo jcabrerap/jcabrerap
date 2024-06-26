@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jcabrerap
 - 👀 I’m interested in networking, automation, and python.
 - 🌱 I’m currently learning Ansible, python, and a little Linux server administration.
-- 📫 How to reach me jcabrera@pm.me
 - ⚡ Music, cars, motorcycles, basically anything with an engine.
 
 <!---
